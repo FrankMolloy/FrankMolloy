@@ -1,17 +1,25 @@
-## Hi there 👋
+## Hi, I’m Frank 👋
 
-<!--
-**FrankMolloy/FrankMolloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a second-year Computer Science & Mathematics student at Loughborough University, interested in backend engineering, infrastructure and quantitative systems.
 
-Here are some ideas to get you started:
+I enjoy building software that turns complex problems into practical tools—from financial risk simulations to automated moderation and service monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="koi/koi.gif" width="256" alt="My koi" />
+### What I’m building
+
+- **[RiskWise](https://github.com/FrankMolloy/RiskWise-Financial-Risk-Simulator)** — a Monte Carlo financial risk simulator built with Python, Dash and Plotly.
+- **[Death Cafe AI Moderation](https://github.com/FrankMolloy/deathcafe-ai-moderation)** — a Django application supporting AI-assisted content moderation.
+- **Deciq** — a daily quantitative decision game exploring probability, strategy and decision-making.
+
+### Technologies
+
+Python · Java · TypeScript · React · FastAPI · Django · Docker · Linux · Git · SQL
+
+I’m seeking a **2027 software engineering industrial placement**, with particular interests in backend, platform and financial technology.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/frankunderwoodmolloy/)
+
+---
+
+<img src="koi/koi.gif" width="256" alt="A koi generated from my public GitHub activity" />
+
+<sub>My GitHub koi, powered by [git-koi](https://github.com/yalongwastaken/git-koi).</sub>
