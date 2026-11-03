@@ -20,8 +20,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: yalongwastaken/git-koi@v1
+      - name: Install Rust
+        run: rustup toolchain install stable --profile minimal
+      - uses: FrankMolloy/git-koi@989e02d4fd1e6ed59661d67f4fddcb45e94449fc
         with:
+          force-max-growth: "true"
           body: gold
           output-dir: koi
       - name: Commit the koi if it changed
