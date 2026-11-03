@@ -22,10 +22,10 @@ jobs:
       - uses: actions/checkout@v7
       - name: Install Rust
         run: rustup toolchain install stable --profile minimal
-      - uses: FrankMolloy/git-koi@989e02d4fd1e6ed59661d67f4fddcb45e94449fc
+      - uses: FrankMolloy/git-koi@b76b69fd70ba7bf92212aca5b0fa20e708f6062d
         with:
           force-max-growth: "true"
-          body: gold
+          extra-swim-motion: "true"
           output-dir: koi
       - name: Commit the koi if it changed
         shell: bash
