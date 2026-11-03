@@ -20,6 +20,6 @@ I’m seeking a **2027 software engineering industrial placement**, with particu
 
 ---
 
-<img src="koi/koi.gif" width="256" alt="A koi generated from my public GitHub activity" />
+<img src="koi/koi.gif" width="300" alt="A koi generated from my public GitHub activity" />
 
 <sub>My GitHub koi, powered by [git-koi](https://github.com/yalongwastaken/git-koi).</sub>
