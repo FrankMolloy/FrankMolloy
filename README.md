@@ -2,7 +2,7 @@
 
 I’m a second-year Computer Science & Mathematics student at Loughborough University, interested in backend engineering, infrastructure and quantitative systems.
 
-I enjoy building software that turns complex problems into practical tools—from financial risk simulations to automated moderation and service monitoring.
+I enjoy building software that turns complex problems into practical tools, from financial risk simulations to automated moderation and service monitoring.
 
 ### What I’m building
 
